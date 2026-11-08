@@ -1,0 +1,6 @@
+{
+  "name": "ARCHIVIST - 個人收藏管理",
+  "description": "簡潔成熟的個人典藏目錄管理系統，具備真正持久化資料庫、多維度檢索與統計分析。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
